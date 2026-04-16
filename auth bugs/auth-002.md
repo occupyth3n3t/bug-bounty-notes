@@ -29,7 +29,7 @@ However, if we clear our members to become 0 and send invitation links to the am
 ---
 
 ### 💡 Key Learning
--  Send the link more than the allow number of members and then use them the system may act wied as in this case.
+-  Send the link more than the allow number of members and then use them the system may act weird as in this case.
 
 ---
 
@@ -57,7 +57,7 @@ we can directly send the API call of invite user with no plan user session token
 ---
 
 ### 💡 Key Learning
--  The key learning is that don't trust front if the frontend say is not allow take the endpoint and grab your burpsuite.
+-  The key learning is that don't trust frontend, if the frontend say is not allow take the endpoint and grab your burpsuite.
 
 ---
 
